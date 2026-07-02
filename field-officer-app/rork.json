@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "Expo",
+      "path": "expo",
+      "framework": "react-native"
+    },
+    {
+      "name": "Flutter",
+      "path": "flutter_app",
+      "framework": "flutter"
+    }
+  ]
+}
